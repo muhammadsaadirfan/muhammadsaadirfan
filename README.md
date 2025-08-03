@@ -12,7 +12,7 @@
 <!-- About Me Section -->
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 <ul>
-  <li><strong>Muhammad Saad</strong>: Robotics Software Engineer with a strong focus on developing and deploying smart robotic systems. Proficient in ROS 2, Gazebo simulations, Nav2 navigation stack, MoveIt motion planning, OpenCV-based perception, and full-stack architectures for automation. Experienced in robotic simulation, low-level hardware control, and applying machine learning and reinforcement learning for intelligent decision-making and adaptive behaviors.</li>
+  <li><strong>Muhammad Saad</strong>: Robotics Software Engineer with a strong focus on developing and deploying smart robotic systems. Proficient in ROS 1, ROS2, simulations, Nav2 navigation stack, MoveIt motion planning, OpenCV-based perception, YOLO and full-stack architectures for automation. Experienced in robotic simulation, low-level hardware control, and applying machine learning and reinforcement learning for intelligent decision-making and adaptive behaviors.</li>
   <li><strong>Education</strong>: Mechatronics & Control Engineering student at UET Lahore (CGPA: 3.745)</li>
   <li><strong>Interests</strong>: Robotics, AI, Embedded Systems, Web Development, and Mechatronics-based product design.</li>
   <li><strong>Life Motto</strong>: "Learn, Build, Innovate. Automate the Future."</li>
