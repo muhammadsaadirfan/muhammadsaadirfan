@@ -12,7 +12,7 @@
 <!-- About Me Section -->
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 <ul>
-  <li><strong>Muhammad Saad</strong>: Passionate about building intelligent robotic systems. Specializing in ROS, Gazebo, OpenCV, MoveIt, and full-stack development for automation and smart robotics solutions.</li>
+  <li><strong>Muhammad Saad</strong>: Passionate about building intelligent robotic systems. Specializing in ROS, Gazebo, OpenCV, Nav2, MoveIt, and full-stack development for automation and smart robotics solutions.</li>
   <li><strong>Education</strong>: Mechatronics & Control Engineering student at UET Lahore (CGPA: 3.745)</li>
   <li><strong>Interests</strong>: Robotics, AI, Embedded Systems, Web Development, and Mechatronics-based product design.</li>
   <li><strong>Life Motto</strong>: "Learn, Build, Innovate. Automate the Future."</li>
@@ -92,15 +92,23 @@
 
 ###
 
+<!-- Social Icons Section -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="www.linkedin.com/in/muhammad-saad-irfan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="https://wa.me/923174100149" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo" />
+  </a>
+  <a href="mailto:msaadmceu@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+  </a>
 </div>
+
 
 ###
 <p align="left">
-  💬 Ask me about <strong>Robotics, ROS 2, Gazebo, MoveIt, AI, Embedded Systems, Automation</strong><br>
+  💬 Ask me about <strong>Robotics, ROS, AI, Embedded Systems, Automation</strong><br>
   📫 Reach me at <a href="mailto:msaadmceu@gmail.com">msaadmceu@gmail.com</a>
 </p>
 
