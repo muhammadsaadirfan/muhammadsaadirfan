@@ -3,7 +3,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Greetings" style="width: 100%;" />
 </p>
 
-<h1 align="center"><font face="Arial">Hi 👋, I'm <a href="https://muhamadsaad.netlify.app/">Muhammad Saad</a></font></h1>
+<h1 align="center"><font face="Arial">Hi 👋, I'm <a href="https://muhammadsaadirfan.netlify.app/">Muhammad Saad</a></font></h1>
 <h3 align="center"><font face="Arial">🤖 Full Stack Robotics Software Developer from Pakistan</font></h3>
 <!-- Right-aligned GIF -->
 <p align="center">
@@ -115,7 +115,7 @@
 <!-- Portfolio and QR Code Section -->
 <h2 align="left">See My Portfolio</h2>
 <p>
-  <a href="https://muhamadsaad.netlify.app/" target="_blank">Muhammad Saad's Portfolio</a><br>
+  <a href="https://muhammadsaadirfan.netlify.app/" target="_blank">Muhammad Saad's Portfolio</a><br>
 </p>
 <h3 align="center">Or Scan This QR Code 👇🏻</h3>
 <p align="center">
