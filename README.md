@@ -119,7 +119,7 @@
 </p>
 <h3 align="center">Or Scan This QR Code 👇🏻</h3>
 <p align="center">
-  <img src="https://github.com/muhammadsaadirfan/muhammadsaadirfan/blob/main/Untitled.svg" alt="Portfolio QR Code" style="width: 20%;" />
+  <img src="https://github.com/muhammadsaadirfan/muhammadsaadirfan/blob/main/portfolio_qr.png" alt="Portfolio QR Code" style="width: 20%;" />
 </p>
 
 
