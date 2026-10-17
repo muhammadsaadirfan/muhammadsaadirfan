@@ -1,6 +1,12 @@
 <h1 align="center">Muhammad Saad Irfan</h1>
 <h3 align="center">Robotics Software Developer · Robotics Researcher</h3>
-
+<p align="center">
+  <img
+    src="portfolio_qr.png"
+    alt="Robotics software development"
+    width="500"
+  />
+</p>
 <p align="center">
   Human–Robot Interaction . Social Navigation
 </p>
