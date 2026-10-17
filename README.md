@@ -4,7 +4,8 @@
   <img
     src="Muhammad_saad.png"
     alt="Robotics software development"
-    width="500"
+    width="1920"
+    height="1080"
   />
 </p>
 <p align="center">
@@ -48,4 +49,4 @@ I'm a **Mitacs Globalink Research Intern at Concordia University, Canada**, and 
 
 I'm open to **robotics research collaborations, software development opportunities, and freelance work** in perception, navigation, automation, and robot integration.
 
-For technical collaboration, consulting, or one-to-one support, reach me at **[msaadmceu@gmail.com](mailto:saad.robotics.dev@gmail.com)** or connect through **[LinkedIn](https://www.linkedin.com/in/muhammad-saad-irfan/)**.
+For technical collaboration, consulting, or one-to-one support, reach me at **[saad.robotics.dev@gmail.com](mailto:saad.robotics.dev@gmail.com)** or connect through **[LinkedIn](https://www.linkedin.com/in/muhammad-saad-irfan/)**.
