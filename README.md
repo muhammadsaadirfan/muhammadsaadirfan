@@ -2,7 +2,7 @@
 <h3 align="center">Robotics Software Developer · Robotics Researcher</h3>
 <p align="center">
   <img
-    src="portfolio_qr.png"
+    src="Muhammad_saad.png"
     alt="Robotics software development"
     width="500"
   />
