@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Saad Irfan</h1>
+<h1 align="center">Muhammad Saad</h1>
 <h3 align="center">Robotics Software Developer · Robotics Researcher</h3>
 <p align="center">
   <img
