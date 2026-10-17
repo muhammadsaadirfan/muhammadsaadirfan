@@ -1,130 +1,45 @@
-<!-- Header Section -->
+<h1 align="center">Muhammad Saad Irfan</h1>
+<h3 align="center">Robotics Software Developer · Robotics Researcher</h3>
+
 <p align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Greetings" style="width: 100%;" />
+  Human–Robot Interaction . Social Navigation
 </p>
 
-<h1 align="center"><font face="Arial">Hi 👋, I'm <a href="https://muhammadsaadirfan.github.io/">Muhammad Saad</a></font></h1>
-<h3 align="center"><font face="Arial">🤖 Full Stack Robotics Software Developer from Pakistan</font></h3>
-<!-- Right-aligned GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coder GIF" height="300" width="500"/>
-</p>
-<!-- About Me Section -->
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-<ul>
-  <li><strong>Muhammad Saad</strong>: Robotics Software Engineer with a strong focus on developing and deploying smart robotic systems. Proficient in ROS 1, ROS2, Nav2 navigation stack, MoveIt motion planning, OpenCV-based perception, YOLO and full-stack architectures for automation. Experienced in robotic simulation, low-level hardware control, and applying machine learning and reinforcement learning for intelligent decision-making and adaptive behaviors.</li>
-  <li><strong>Education</strong>: Mechatronics & Control Engineering student at UET Lahore (CGPA: 3.745)</li>
-  <li><strong>Interests</strong>: Robotics, AI, Embedded Systems, Web Development, and Mechatronics-based product design.</li>
-  <li><strong>Life Motto</strong>: "Learn, Build, Innovate. Automate the Future."</li>
-</ul>
-
-
-<!-- Freelancing & Schedule a Call Section -->
-<h2 align="left"><font face="Verdana">💼 Freelancing & 1-on-1 Consultation:</font></h2>
-<p align="left">
-  I’m also available for freelance projects, mentorship sessions, and robotics/software consultations. If you're looking for help with <strong>ROS, Gazebo, MoveIt, AI integration, OpenCV, Arduino, or full-stack robotics development</strong>, feel free to reach out.
-</p>
-<p align="left">
-  📞 <a href="https://www.fiverr.com/s/m5EaD38" target="_blank" rel="noreferrer"><strong>Book a 1-on-1 session or hire me on Fiverr »</strong></a>
+  <a href="https://muhammadsaadirfan.github.io/">Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-saad-irfan/">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="mailto:saad.robotics.dev@gmail.com">Email</a> &nbsp;•&nbsp;
 </p>
 
-<h2 align="left"><font face="Verdana">🛠️ Technologies and Tools I Use <</font></h2>
+---
 
-###
+## About Me
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/ros/22314E" height="40" alt="ros logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/replit/F26207" height="40" alt="replit logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
-</div>
+I'm a **robotics software developer and researcher** working at the intersection of human–robot interaction, social navigation and mobile robotics. I develop systems that connect sensor data, behavioral models, and motion planning to help robots understand and operate in environments shared with people.
 
-###
-<!-- Connect with Me Section -->
-<h2 align="left"><font face="Verdana">📬 Connect with Me:</font></h2>
+I'm a **Mitacs Globalink Research Intern at Concordia University, Canada**, and a final-year **Mechatronics and Control Engineering student at UET Lahore, Pakistan**. My experience includes working as a **Research Assistant at LUMS**, a **Research Intern at UET Lahore**, and a **freelance robotics software developer on Fiverr**. Across these roles, I have combined academic research with hands-on development in robotics, software, and embedded systems.
 
-###
+## Research Interests
 
-<!-- Social Icons Section -->
-<div align="center">
-  <a href="www.linkedin.com/in/muhammad-saad-irfan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  </a>
-  <a href="https://wa.me/923174100149" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo" />
-  </a>
-  <a href="mailto:msaadmceu@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
-  </a>
-</div>
+- **Human–Robot Interaction & Social Navigation** — Human-aware motion, personal space, social norms, and robot behavior in shared environments.
+- **Robot Perception & Sensor Fusion** — Combining visual, depth, and LiDAR observations for spatial understanding and human tracking under uncertainty.
+- **Autonomous Decision-Making** — Integrating perception, prediction, and planning to support context-aware robot behavior.
+- **Embodied AI & Robot Learning** — Reinforcement learning and vision-language-action models for adaptive behavior and generalization to real-world settings.
 
+## Skills & Technologies
 
-###
-<p align="left">
-  💬 Ask me about <strong>Robotics, ROS, AI, Embedded Systems, Automation</strong><br>
-  📫 Reach me at <a href="mailto:msaadmceu@gmail.com">msaadmceu@gmail.com</a>
-</p>
+| Domain | Skills & Tools |
+| :--- | :--- |
+| **Robotics & Navigation** | ROS 1, ROS 2, Nav2, MoveIt, SLAM, motion planning, TF2 |
+| **Perception & Computer Vision** | OpenCV, YOLO, NanoDet, RGB-D processing, LiDAR processing, sensor fusion, human detection and tracking |
+| **Programming** | Python, C++, C, Bash |
+| **Machine Learning & Analysis** | PyTorch, TensorFlow, NumPy, Pandas, MATLAB, Jupyter |
+| **Simulation & Experimentation** | Gazebo, RViz, rosbag recording and playback, sensor diagnostics, simulation-to-hardware integration |
+| **Hardware & Embedded Systems** | Hello Robot Stretch 3, Intel RealSense, RPLIDAR, Arduino, Raspberry Pi, NVIDIA Jetson |
+| **Development Tools** | Linux/Ubuntu, Git, Docker, CMake, VS Code, LaTeX |
 
-<!-- Portfolio and QR Code Section -->
-<h2 align="left">See My Portfolio</h2>
-<p>
-  <a href="https://muhammadsaadirfan.github.io/" target="_blank">Muhammad Saad's Portfolio</a><br>
-</p>
-<h3 align="center">Or Scan This QR Code 👇🏻</h3>
-<p align="center">
-  <img src="https://github.com/muhammadsaadirfan/muhammadsaadirfan/blob/main/portfolio_qr.png" alt="Portfolio QR Code" style="width: 20%;" />
-</p>
+## Connect
 
+I'm open to **robotics research collaborations, software development opportunities, and freelance work** in perception, navigation, automation, and robot integration.
 
-<!-- Footer Section -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Thanks for visiting" width="100%" height="120"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
-</p>
+For technical collaboration, consulting, or one-to-one support, reach me at **[msaadmceu@gmail.com](mailto:saad.robotics.dev@gmail.com)** or connect through **[LinkedIn](https://www.linkedin.com/in/muhammad-saad-irfan/)**.
